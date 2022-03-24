@@ -15,3 +15,7 @@ I enjoy building stuff using Linux and Rust.
 
 Polkadot Tips: 167o7nwjMS6WMvqpCWHK2XXvgxcMYwVhfrezw6ZbxejSmxeP  
 Kusama Tips: Ff3RejZ9e261iVv7NhxmU9s8k5XAJ1iGT76m1PGHK5Lyene
+
+
+---
+The CustomBlink avatar was made by twitch.tv/aliceshortcake and is used with permission.
